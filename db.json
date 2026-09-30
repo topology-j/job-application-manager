@@ -1,0 +1,109 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "companyName": "넥스트테크",
+      "title": "백엔드 개발자 신입 채용",
+      "career": "신입",
+      "employmentType": "정규직",
+      "location": "서울 강남구",
+      "phone": "02-1234-5678",
+      "employeeCount": 120,
+      "position": "백엔드 개발자",
+      "deadline": "2026-10-20",
+      "duties": "웹 서비스 API 개발 및 서버 유지보수",
+      "requirements": "JavaScript 및 웹 개발에 대한 기본 이해"
+    },
+    {
+      "id": "2",
+      "companyName": "에이아이랩",
+      "title": "AI 백엔드 개발자 채용",
+      "career": "신입",
+      "employmentType": "정규직",
+      "location": "서울 성동구",
+      "phone": null,
+      "employeeCount": 75,
+      "position": "AI 백엔드 개발자",
+      "deadline": "2026-10-25",
+      "duties": "AI 서비스 API 개발 및 데이터 처리",
+      "requirements": "Python 기초 및 REST API에 대한 이해"
+    },
+    {
+      "id": "3",
+      "companyName": "클라우드웨이브",
+      "title": "웹 서비스 개발자 채용",
+      "career": "경력무관",
+      "employmentType": "정규직",
+      "location": "서울 영등포구",
+      "phone": "02-3456-7890",
+      "employeeCount": 210,
+      "position": "웹 개발자",
+      "deadline": "2026-11-05",
+      "duties": "웹 서비스 개발 및 기존 서비스 유지보수",
+      "requirements": "React 또는 Next.js 사용 경험"
+    },
+    {
+      "id": "4",
+      "companyName": "데이터브릿지",
+      "title": "서버 개발자 모집",
+      "career": "경력",
+      "employmentType": "정규직",
+      "location": "경기 성남시",
+      "phone": null,
+      "employeeCount": 95,
+      "position": "서버 개발자",
+      "deadline": "2026-11-10",
+      "duties": "서버 API 개발 및 데이터베이스 연동",
+      "requirements": "백엔드 개발 경력 2년 이상"
+    },
+    {
+      "id": "5",
+      "companyName": "코드플래닛",
+      "title": "풀스택 개발자 채용",
+      "career": "경력무관",
+      "employmentType": "계약직",
+      "location": "서울 마포구",
+      "phone": "02-5678-1234",
+      "employeeCount": 48,
+      "position": "풀스택 개발자",
+      "deadline": "2026-11-15",
+      "duties": "프론트엔드 및 백엔드 서비스 개발",
+      "requirements": "JavaScript와 React에 대한 기본 이해"
+    },
+    {
+      "id": "6",
+      "companyName": "솔루션팩토리",
+      "title": "솔루션 백엔드 개발자 모집",
+      "career": "신입",
+      "employmentType": "정규직",
+      "location": "서울 구로구",
+      "phone": null,
+      "employeeCount": 160,
+      "position": "백엔드 개발자",
+      "deadline": "2026-11-20",
+      "duties": "기업용 솔루션 백엔드 기능 개발",
+      "requirements": "웹 프로그래밍 및 데이터베이스 기초 이해"
+    }
+  ],
+  "applications": [
+    {
+      "jobId": "1",
+      "id": "Don3PSt5hnU"
+    }
+  ],
+  "favorites": [
+    {
+      "jobId": "2",
+      "id": "Ofz_p5_sKhg"
+    }
+  ],
+  "resumeSubmissions": [],
+  "memos": [
+    {
+      "jobId": "1",
+      "content": "필수 이력서",
+      "id": "9BaqxzxrUuw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
