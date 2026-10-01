@@ -18,7 +18,7 @@ export default function CompanyList({
     keyword
 }) {
 
-    const [jobs, setJobs] = useState(initialJobs);
+    const jobs = initialJobs;
     const [applications, setApplications] = useState(initialApplications);
     const [favorites, setFavorites] = useState(initialFavorites);
 
